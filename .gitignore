@@ -1,0 +1,11 @@
+# Ignore log files
+logs/
+*.log
+
+# Ignore temporary files
+temp/
+*.tmp
+
+# Ignore the files with sensitive info
+password.txt
+secret.txt
