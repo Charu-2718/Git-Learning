@@ -8,4 +8,4 @@ temp/
 
 # Ignore the files with sensitive info
 password.txt
-secret.txt
+secret.txt.env
